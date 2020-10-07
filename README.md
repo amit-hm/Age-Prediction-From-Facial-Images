@@ -11,4 +11,8 @@
 1. [wiki_judge_images.zip](https://drive.google.com/file/d/1kfYQybBq52BK0joo5o_Ldlhw9SSRBh2c/view?usp=sharing): containing 2001 facial images of resolution 100x100.
 2. [wiki_judgeX.mat](https://drive.google.com/file/d/1qvIozGjVDVuYK4prcvtgP-i04JJfVkFJ/view?usp=sharing): contains meta information of each of the 2001 images.
 
+**Sample Eigen Faces Produced:**
 ![alt text](https://drive.google.com/uc?export=view&id=1P6wu2p1q7p10lOv19MyJf8sT9hpudi1z)
+
+**Plot of K vs RMSE:**
+![alt text](https://drive.google.com/uc?export=view&id=1xB_PMqIwdduESz0Ri_ZM07yDwtsZvqgx)
